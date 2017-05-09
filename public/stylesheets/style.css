@@ -6,3 +6,16 @@ body {
 a {
   color: #00B7FF;
 }
+
+#menu {
+position: absolute;
+width: 190px;
+height: 300px;
+}
+
+#map {
+position: absolute;
+left: 190px;
+height: 98%;
+width: 85%;
+}
